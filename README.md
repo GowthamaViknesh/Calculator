@@ -1,4 +1,4 @@
-<h2>Calculao</h2>
+<h2>Calculator</h2>
 
 <h3>Basic Calculator Beginners Code </h3>
 
